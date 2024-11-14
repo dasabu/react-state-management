@@ -1,0 +1,126 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "email": "michael.j@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emily.d@example.com"
+    },
+    {
+      "id": 5,
+      "name": "William Brown",
+      "email": "william.b@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Olivia Wilson",
+      "email": "olivia.w@example.com"
+    },
+    {
+      "id": 7,
+      "name": "James Garcia",
+      "email": "james.g@example.com"
+    },
+    {
+      "id": 8,
+      "name": "Isabella Martinez",
+      "email": "isabella.m@example.com"
+    },
+    {
+      "id": 9,
+      "name": "Alexander Lee",
+      "email": "alexander.l@example.com"
+    },
+    {
+      "id": 10,
+      "name": "Sophia Perez",
+      "email": "sophia.p@example.com"
+    },
+    {
+      "id": 11,
+      "name": "54362",
+      "email": "31231231123124214512"
+    },
+    {
+      "id": 12,
+      "name": "657625",
+      "email": "3123123114325"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Understanding React Lifecycle",
+      "author": "John Doe",
+      "description": "An in-depth look at React's component lifecycle methods and hooks."
+    },
+    {
+      "id": 2,
+      "title": "JavaScript ES6 Features",
+      "author": "Jane Smith",
+      "description": "Exploring the new features introduced in ES6 and how to use them effectively."
+    },
+    {
+      "id": 3,
+      "title": "State Management in React",
+      "author": "Michael Johnson",
+      "description": "A comprehensive guide on managing state in React applications."
+    },
+    {
+      "id": 4,
+      "title": "CSS Flexbox and Grid Layouts",
+      "author": "Emily Davis",
+      "description": "A comparison between Flexbox and Grid layouts in CSS and how to use them."
+    },
+    {
+      "id": 5,
+      "title": "Node.js Best Practices",
+      "author": "William Brown",
+      "description": "Best practices for building scalable and maintainable Node.js applications."
+    },
+    {
+      "id": 6,
+      "title": "Introduction to TypeScript",
+      "author": "Olivia Wilson",
+      "description": "An overview of TypeScript and how it improves JavaScript development."
+    },
+    {
+      "id": 7,
+      "title": "Understanding Promises in JavaScript",
+      "author": "James Garcia",
+      "description": "An explanation of JavaScript promises and how to work with asynchronous code."
+    },
+    {
+      "id": 8,
+      "title": "Building RESTful APIs with Express",
+      "author": "Isabella Martinez",
+      "description": "A tutorial on how to build RESTful APIs using Express and Node.js."
+    },
+    {
+      "id": 9,
+      "title": "Mastering Git for Version Control",
+      "author": "Alexander Lee",
+      "description": "Essential tips and techniques for effective Git version control management."
+    },
+    {
+      "id": 10,
+      "title": "Responsive Design Principles",
+      "author": "Sophia Perez",
+      "description": "Key principles for creating responsive and mobile-friendly web designs."
+    }
+  ]
+}
